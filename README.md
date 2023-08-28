@@ -11,5 +11,5 @@ I'm Tunahan, a 16 years old web developer from Turkey.
 - 👁️ SASS, BOOTSTRAP, CSS
 
 ## Contact
-- [@wiseshaman](https://t.me/devnyks) on Telegram
+- [@devnyks](https://t.me/devnyks) on Telegram
 - [devnyks](./) on Discord
