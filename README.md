@@ -7,8 +7,8 @@ I'm Tunahan, a 16 years old web developer from Turkey.
 
 ## Skills
 - 👨‍💻 JavaScript
-<!-- - ⚙️ React, Svelte, Vue -->
-- 👁️ SASS, BOOTSTRAP, CSS
+- ⚙️ React
+- 👁️ SASS, BOOTSTRAP, TAILWIND CSS
 
 ## Contact
 - [@devnyks](https://t.me/devnyks) on Telegram
